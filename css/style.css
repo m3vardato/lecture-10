@@ -152,24 +152,14 @@ ul {
     .idk5 {
         flex-direction: column;
         gap: 33px;
-        margin-left: 350px;
+        margin-left: 550px;
     }
     .container1 {
         flex-direction: column;
         gap: 33px;
-        margin-left: 350px;
+        margin-left: 550px;
     }
-    .popo2 {
-        width: 150%;
+    .popo2{
+      width: 300%;
     }
-}
-
-@media screen and (width<=500px ) {
-    .container1{
-        margin-left: 100px;
-    }
-    .container{
-        margin-left: 100px;
-    }
-    
 }
